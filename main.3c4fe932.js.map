@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/main.js"],"names":["AOS","init","duration","easing","once"],"mappings":";AACA,aAEAA,IAAIC,KAAK,CACPC,SAAU,KACVC,OAAQ,OACRC,MAAM","file":"main.3c4fe932.js","sourceRoot":"..\\src","sourcesContent":["/* eslint-disable no-undef */\n'use strict';\n\nAOS.init({\n  duration: 1500,\n  easing: 'ease',\n  once: true,\n});\n"]}
